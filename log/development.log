@@ -1782,3 +1782,9 @@ SyntaxError (/Users/cristy/Documents/Flatiron/mod3/wk2/returning-string-data-web
   Rendered /Users/cristy/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
   Rendered /Users/cristy/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
   Rendered /Users/cristy/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (154.1ms)
+
+
+Started GET "/posts/new" for ::1 at 2018-03-01 17:45:25 -0500
+Processing by PostsController#new as HTML
+  Rendered posts/new.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 19ms (Views: 14.0ms | ActiveRecord: 0.4ms)
